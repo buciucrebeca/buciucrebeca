@@ -1,16 +1,24 @@
-## Hi there 👋
+# Rebeca Buciuc
 
-<!--
-**buciucrebeca/buciucrebeca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend / Full-Stack Developer
 
-Here are some ideas to get you started:
+I build web applications with Angular and TypeScript. I previously worked on internal web application features at Bosch, using Angular, PHP REST APIs and Oracle SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am developing my Java and Spring Boot skills through personal projects.
+
+## Technologies
+
+- **Frontend:** Angular, TypeScript, HTML, CSS/SCSS
+- **Backend:** PHP, REST APIs; Java and Spring Boot through personal projects
+- **Databases:** Oracle SQL, MySQL
+- **Tools:** Git, Figma
+
+## Projects
+
+### [Booking Desk App](https://github.com/buciucrebeca/Booking-Desk-App)
+
+A desk booking web application built with Angular, TypeScript and PHP.
+
+### KPI Monitor — in development
+
+A personal project for monitoring team KPIs, using Angular, Java/Spring Boot and MySQL.
