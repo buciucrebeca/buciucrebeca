@@ -1,6 +1,6 @@
 # Rebeca Buciuc
 
-Junior Frontend / Full-Stack Developer
+Junior Software Developer
 
 I build web applications with Angular and TypeScript. I previously worked on internal web application features at Bosch, using Angular, PHP REST APIs and Oracle SQL.
 
