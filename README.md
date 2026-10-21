@@ -10,7 +10,7 @@ I am developing my Java and Spring Boot skills through personal projects.
 
 - **Frontend:** Angular, TypeScript, HTML, CSS/SCSS
 - **Backend:** PHP, REST APIs; Java and Spring Boot through personal projects
-- **Databases:** Oracle SQL, MySQL
+- **Databases:** Oracle SQL
 - **Tools:** Git, Figma
 
 ## Projects
