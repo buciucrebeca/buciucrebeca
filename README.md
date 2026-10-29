@@ -19,6 +19,6 @@ I am developing my Java and Spring Boot skills through personal projects.
 
 A desk booking web application built with Angular, TypeScript and PHP.
 
-### KPI Monitor — in development
+### [KPI Monitor](https://github.com/buciucrebeca/KPI-Monitor) — in development
 
 A personal project for monitoring team KPIs, using Angular, Java/Spring Boot and MySQL.
